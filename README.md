@@ -1,5 +1,5 @@
 
-Exp 6 Simulation of Optical Communication System
+## Exp 6 Simulation of Optical Communication System
 ## Introduction to OptiPerformer 
 ## Objective
 Download and install OptiPerformer software on your computer and run a sample file.
@@ -59,33 +59,19 @@ The system includes:
 
 ## Report
 
-1. Cover sheet (as per attached example).  
-2. Tabulation of received power, Q factor, and BER for 5 fiber lengths.  
-3. Plot of received power, Q factor, and BER vs. fiber length.  
-4. Description of eye diagram changes with increasing fiber length.
-
----
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/1cc60fcd-38ee-4195-ad09-46390f75c673" />
 
 ## Tabulation
 
 **Transmission Analysis Across Fiber Lengths**
 
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/580a7123-2f2c-49e1-aa7f-8aa7b1e356c3" />
 
----
 
-## Graphs
-
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
 
 ---
 
 ## RESULT
+Thus the simulation of optical communication system is successfully verified with BER analyzer.
 
-*(Summarize key findings from simulation and analysis)*
+
